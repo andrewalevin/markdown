@@ -48,6 +48,22 @@ markdown
   <div class="box-3"> F </div>
 </div>
 
+# Sample Bootstrap
+
+<div class="container text-center">
+  <div class="row">
+    <div class="col">
+      Column
+    </div>
+    <div class="col">
+      Column
+    </div>
+    <div class="col">
+      Column
+    </div>
+  </div>
+</div>
+
 
 # Sample etc
 
