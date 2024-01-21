@@ -48,5 +48,17 @@ child
 
 
 
+# Sample 3
+
+<div style="text-align: center; display: grid; grid-template-columns: 1fr 1fr;">
+	<div>
+		block-1
+	</div>
+	<div>
+		block-2
+	</div>
+</div>
+
+
 # Sample etc
 
