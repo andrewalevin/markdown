@@ -26,25 +26,6 @@ markdown
 </div>
 
 
-# Sample 2
-
-<div style="text-align: center; display: grid; grid-template-columns: 1fr 1fr;">
-  <div>parent
-
-```html
-<component>content</component>
-```
-
-  </div>
-  <div>
-child
-
-```html
-<slot>fallback content</slot>
-```
-
-  </div>
-</div>
 
 
 
@@ -57,8 +38,27 @@ child
 	<div>
 		block-2
 	</div>
+
+ <div class="box-1"> A </div>
+  <div class="box-2"> B </div>
+  <div class="box-3"> C </div>
+
+   <div class="box-1"> D </div>
+  <div class="box-2"> E </div>
+  <div class="box-3"> F </div>
 </div>
 
 
 # Sample etc
+
+
+
+
+
+
+
+
+
+
+
 
