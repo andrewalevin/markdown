@@ -45,6 +45,10 @@ markdown
     </div>
 </div>
 
+# Include
+
+{% raw %}{% include part.md %}{% endraw %}
+
 # Other
 
 
