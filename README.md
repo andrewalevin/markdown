@@ -49,6 +49,8 @@ markdown
 
 {% raw %}{% include part.md %}{% endraw %}
 
+@@include[part.md](part.md)
+
 # Other
 
 
