@@ -2,13 +2,7 @@
 <style>
 	@import url("red.css");
 	@import url("bootstrap-grid.css");
-
-	iframe {
-	    display: block;
-	width: 100%;
-    	aspect-ratio: 16/9;
-		height: auto;
-	}
+	@import url("iframe-youtube.css");
 </style>
 
 # markdown
