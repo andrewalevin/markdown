@@ -5,8 +5,9 @@
 
 	iframe {
 	    display: block;
-	height: revert-layer;
-    	width: 100%;
+	width: 100%;
+    	aspect-ratio: 16/9;
+		height: auto;
 	}
 </style>
 
