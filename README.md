@@ -5,8 +5,8 @@
 
 	iframe {
 	    display: block;
-	    height: 100vh!important;
-	    width: 100vw!important;
+	height: revert-layer;
+    	width: 100%;
 	}
 </style>
 
