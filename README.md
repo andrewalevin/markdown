@@ -13,7 +13,7 @@
 # markdown
 markdown
 
-<div class="row">
+<div class="row g-4">
 	<div class="col-12 col-sm-6 col-md-4">
 		
 		<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TUJmSgViGoM?si=bnU2Pig1iCSsUYWu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
