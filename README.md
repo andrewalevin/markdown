@@ -1,8 +1,8 @@
 
 <style>
-	@import url("red.css");
-	@import url("bootstrap-grid.css");
-	@import url("iframe-youtube.css");
+	@import url("/css/red.css");
+	@import url("/css/bootstrap-grid.css");
+	@import url("/css/iframe-youtube.css");
 </style>
 
 # markdown
