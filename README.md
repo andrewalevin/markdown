@@ -2,6 +2,12 @@
 <style>
 	@import url("red.css");
 	@import url("bootstrap-grid.css");
+
+	iframe {
+	    display: block;
+	    height: 100vh!important;
+	    width: 100vw!important;
+	}
 </style>
 
 # markdown
