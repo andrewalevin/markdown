@@ -1,6 +1,7 @@
 
 <style>
 	@import url("red.css");
+	@import url("bootstrap-grid.css");
 </style>
 
 # markdown
